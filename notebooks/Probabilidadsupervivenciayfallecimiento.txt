@@ -1,0 +1,21 @@
+ejercicio 1
+q50 =0.015 probabilidad de fallecer antes de los 51 años
+p50 =1−q50
+p50=1−0.015=0.985
+La probabilidad de sobrevivir hasta los 51 años es de 98.5%
+La probabilidad de que fallezca q50 =0.015 osea es 1.5%
+​
+Ejercicio 2
+p65=0.96  probabilidad de sobrevivir hasta los 66 años
+q65=1−p65
+1. Probabilidad de que una persona de 65 años fallezca antes de los 66 años
+q65=1−0.96=0.04 Probabilidad de fallecer es el 4%
+2. Probabilidad de que una persona de 65 años sobreviva hasta los 67 años
+p65->67=p65×p66
+p65->67=0.96×0.96=0.9216 es un 92%
+​
+
+
+
+​
+
