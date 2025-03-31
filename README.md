@@ -3,7 +3,7 @@
 1. Recuerda agregar las variables de entorno de anaconda al path -> abres el anaconda prompt y poner "where conda"
 * VS -> https://code.visualstudio.com/download
 2. Recuerda instalar el tool de python para que interprete correctamente el environment.
-3. Para cambiar a que ejecute con el cmd en vez del power shell ve a file, preferences, settings-> escribe terminal y busca el apartado terminal>integrated>defaulprofile
+3. Para cambiar a que ejecute con el cmd en vez del power shell ve a file, preferences, settings-> escribe terminal y busca el apartado terminal>integrated>defaultprofile
 * git bash -> https://git-scm.com/downloads
 
 ## Install environment :rocket:
@@ -36,5 +36,5 @@
 ----------------------
 The developers responsible for the development and maintaining of this project.
 
-* **Julian Caro** - *Author/Maintainer* - [mateocivil10@gmail.com]
+* **Julian Mateo Caro** - *Author/Maintainer* - [mateocivil10@gmail.com]
 

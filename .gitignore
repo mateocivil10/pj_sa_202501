@@ -134,6 +134,7 @@ dmypy.json
 
 # Ficheros parquet
 .parquet
+src\AGUAACAGBC
 
 
 
