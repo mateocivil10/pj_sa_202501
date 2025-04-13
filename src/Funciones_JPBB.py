@@ -163,7 +163,7 @@ def generar_resumen_exploratorio(df, factores):
 
     for col in factores:
         if df[col].dtype in ['int64', 'float64']:  # Variable numérica
-            q1, q3 = df[col].quantile([0.25, 0.75])
+            q1, q3 = df[col].quantile([0.1, 0.9])
             iqr = q3 - q1
             outliers = df[(df[col] < q1 - 1.5 * iqr) | (df[col] > q3 + 1.5 * iqr)][col].count()
             total_count = df[col].count()
